@@ -7,6 +7,8 @@
 
 Available in **English and Spanish** from the language switch in the header.
 
+Version 1.1 **Assurance Workbench** adds evidence metadata, review periods and expiry, sampling, test results, residual risk, remediation ownership and due dates, baseline comparison, priority filters, auditor workpaper view and CSV export.
+
 A professional, privacy-first audit evidence screening tool for **NIS2**, **ISO/IEC 27001:2022**, **SOC 2** and **EU AI Act governance**.
 
 ## Why this is different
