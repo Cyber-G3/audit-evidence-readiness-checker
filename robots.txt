@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cyber-g3.github.io/audit-evidence-readiness-checker/sitemap.xml
