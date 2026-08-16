@@ -2,6 +2,9 @@
 
 **Live application / Aplicación:** https://cyber-g3.github.io/audit-evidence-readiness-checker/
 
+- [English version](https://cyber-g3.github.io/audit-evidence-readiness-checker/?lang=en)
+- [Versión española](https://cyber-g3.github.io/audit-evidence-readiness-checker/?lang=es)
+
 Available in **English and Spanish** from the language switch in the header.
 
 A professional, privacy-first audit evidence screening tool for **NIS2**, **ISO/IEC 27001:2022**, **SOC 2** and **EU AI Act governance**.
