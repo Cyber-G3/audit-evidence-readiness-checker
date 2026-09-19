@@ -54,6 +54,9 @@ For audit readiness, control testing, evidence mapping and regulated GRC program
 
 For the engineering and business case behind this project, see [docs/PORTFOLIO.md](docs/PORTFOLIO.md).
 
+- [Assurance Engineering architecture](docs/ASSURANCE-ENGINEERING.md)
+- [DemoCo assurance scenario](docs/DEMOCO-END-TO-END.md)
+
 ## Licence
 
 MIT.
