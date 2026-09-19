@@ -50,6 +50,10 @@ npm run check
 
 For audit readiness, control testing, evidence mapping and regulated GRC programmes, visit [SpectraSec](https://www.spectrasec.eu/).
 
+## Portfolio case
+
+For the engineering and business case behind this project, see [docs/PORTFOLIO.md](docs/PORTFOLIO.md).
+
 ## Licence
 
 MIT.
